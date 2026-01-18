@@ -1,0 +1,44 @@
+[
+  {
+    "session": "session-1768527084",
+    "type": "Burst de actividad",
+    "severity": "high",
+    "count": 6,
+    "ts": "2026-01-16T01:31:24.236424+00:00"
+  },
+  {
+    "session": "session-1768527084",
+    "type": "Muchas copias a staging",
+    "severity": "medium",
+    "count": 3,
+    "ts": "2026-01-16T01:31:24.407940+00:00"
+  },
+  {
+    "session": "session-1768527084",
+    "type": "Enumeración de archivos sensibles",
+    "severity": "low",
+    "count": 3,
+    "ts": "2026-01-16T01:31:24.239378+00:00"
+  },
+  {
+    "session": "session-1768528111",
+    "type": "Burst de actividad",
+    "severity": "high",
+    "count": 6,
+    "ts": "2026-01-16T01:48:31.504268+00:00"
+  },
+  {
+    "session": "session-1768528111",
+    "type": "Muchas copias a staging",
+    "severity": "medium",
+    "count": 3,
+    "ts": "2026-01-16T01:48:31.706570+00:00"
+  },
+  {
+    "session": "session-1768528111",
+    "type": "Enumeración de archivos sensibles",
+    "severity": "low",
+    "count": 3,
+    "ts": "2026-01-16T01:48:31.505967+00:00"
+  }
+]
